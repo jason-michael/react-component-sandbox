@@ -1,1 +1,1 @@
-[Heroku](https://github.com/jason-michael/react-component-sandbox.git)
+[Heroku](https://react-component-sandbox.herokuapp.com/)
